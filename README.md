@@ -21,10 +21,10 @@ Como he comentado anteriormente incrementaría el interés del juego mediante to
 # Por último, explica cómo enfocarías estos aspectos para llegar a desarrollar este videojuego:
 
 - La producción.
-
+Primero en la fase de producción elaboraríamos un GDD sólido en el que expliquen todas las dudas e ideas claramente, un vez consolidada la idea final empezaríamos con el plan de marketing y el kickstarter, mostrando algunos concept art del juego. Ya establecidas las posiciones de cada trabajador dividiríamos el proceso de producción en sprints y crearíamos todas las tareas necesarias para desarrollar el proyecto. Una vez hecho esto ya podríamos desarrollar el PMV y mostarlo para los mecenas en el discord para recibir feedback, dependiendo de las opiniones de los usuarios podríamos cambiar aspectos del juego para adaptarnos a estos. Repitiríamos el proceso con cada actualización hasta tener el producto final.
 
 - La publicación.
-
+En cuanto a la publicación del juego, como he dicho en el punto anterior dispondríamos en el discord de las demos del juego para los mecenas. Una vez terminado el juego lo publícaríamos en steam ya que gracias a los mecenas podríamos permitirnoslo. También podríamos subir el juego en itch.io.
 
 - La gestión.
-
+La gestión del proyecto se haría desde un repositorio con la metodología SCRUM, diviendo para cada trabajador las tareas necesarias para cumplir el sprint correspondiente.
